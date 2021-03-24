@@ -22,5 +22,4 @@ Daily horoscope of 12 Astrology Zodiac Signs with the addition of current week, 
 - [Aquarius](https://pixabay.com/illustrations/zodiac-horoscope-astrology-1647162/)
 - [Pisces](https://pixabay.com/illustrations/zodiac-horoscope-astrology-1647172/)
 
-## Contributing
-Feel free to submit a pull request or an issue!
+[Live Preview](https://fdavidsen.github.io/Simple-Web-Development-Projects/Horoscope)
