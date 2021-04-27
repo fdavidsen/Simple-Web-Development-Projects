@@ -28,6 +28,9 @@ body {
     width: 50%;
   }
 }
+.text-decoration-none {
+  text-decoration: none;
+}
 
 #brand #logo {
   color: #eee;
