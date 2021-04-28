@@ -1,0 +1,1 @@
+$('a').nivoLightbox({ effect: 'fade' });
