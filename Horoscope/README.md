@@ -1,5 +1,5 @@
 # Horoscope
-Daily horoscope of 12 Astrology Zodiac Signs with the addition of current week, month, and year.
+Read today's daily horoscope for all the zodiac signs on this page. There are additional horoscopes for this week, month and year!
 
 ## Sources of API
 - https://github.com/tapaswenipathak/Horoscope-API
